@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../xampp/htdocs"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../python"
+		}
+	],
+	"settings": {}
+}
